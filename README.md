@@ -61,7 +61,7 @@ image-to-text/
 ```
 
 ### Screenshot of Output
--- To upload a screenshot or result image, use the following HTML tag to display the image.
+
 <img src="https://github.com/HitDrama/Image-To-Text-Translate/blob/main/static/train/img-text-test.png" alt="Result Image" width="600">
 
 ---
