@@ -18,7 +18,7 @@
 
 Once the application is running, you can access it via the following URL:
 
--- http://localhost:5000/image-to-text
+- http://localhost:5000/image-to-text
 
 
 ---
